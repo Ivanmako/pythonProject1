@@ -45,4 +45,4 @@ def examonation_ambiguous_characters(): #проверка на неоднозн�
         rand_num = randrange(len(chars))
     return rand_num
 
-generate_password(lenPw, chars_kit()) #основнвя функция
+generate_password(lenPw, chars_kit()) #основнвя функцияя
